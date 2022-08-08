@@ -16,7 +16,7 @@ int main()
     for(i=1; i <=n; i++){
     f=f*i;
     }
-    printf("le resultat est : %d \n",n,f);
+    printf("le resultat est : %d \n",f);
     printf("le resultat par la fonction est : %d \n",fonFact(n));
     return 0;
 }
